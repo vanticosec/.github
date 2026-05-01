@@ -7,5 +7,5 @@ We welcome contributions from the community! If you want to enhance our tools or
 We combine high-end security research with a real-world attacker mentality to reduce risk and fortify organizations.
 
 **Some of our work:**
-- [@vanticohq](https://github.com/vanticohq) Our main GitHub organization
+- [@vanticosec](https://github.com/vanticosec) Our main GitHub organization
 
